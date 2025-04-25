@@ -4,7 +4,7 @@
 <h2>My Projects:</h2>
 
 - <b>AWS</b>
-  - [website](https://github.com/Elliot-Berard/AWS_Website)
+  - [Made website using AWS](https://github.com/Elliot-Berard/AWS_Website)
   
 <h2>Connect with me</h2>
 
